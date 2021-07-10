@@ -1,0 +1,11 @@
+{
+  "id": 311,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Akita",
+  "photoUrls": null,
+  "tags": null,
+  "status": "waiting"
+}
